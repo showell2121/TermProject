@@ -3,6 +3,8 @@ Partial Class Form1
   Inherits System.Windows.Forms.Form
   'changes from branch1
   '/////////////////////
+  ' This is a test from Branch2
+  '/////////////////////////////////////////////////////
   'Form overrides dispose to clean up the component list.
   <System.Diagnostics.DebuggerNonUserCode()> _
   Protected Overrides Sub Dispose(ByVal disposing As Boolean)
