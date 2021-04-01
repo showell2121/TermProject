@@ -77,8 +77,8 @@ Partial Class Form1
         Me.Text = "Form1"
         Me.ResumeLayout(False)
         Me.PerformLayout()
-    if True then
-      
+    if False then
+     
     End If 
 
     End Sub
