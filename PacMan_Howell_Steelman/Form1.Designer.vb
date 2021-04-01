@@ -6,6 +6,7 @@ Partial Class Form1
   ' This is a test from Branch2
   '/////////////////////////////////////////////////////
   'Form overrides dispose to clean up the component list.
+  'Testing space
   <System.Diagnostics.DebuggerNonUserCode()> _
   Protected Overrides Sub Dispose(ByVal disposing As Boolean)
     Try
