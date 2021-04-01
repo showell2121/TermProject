@@ -1,5 +1,6 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
 Partial Class Form1
+  'From Branch 1 //Seth
   Inherits System.Windows.Forms.Form
     'Form overrides dispose to clean up the component list.
   <System.Diagnostics.DebuggerNonUserCode()> _
