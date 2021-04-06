@@ -2,6 +2,7 @@
 Partial Class Form1
   'Added new spaceship //Ryan
   'From Branch 1 //Seth
+  '1
   Inherits System.Windows.Forms.Form
     'Form overrides dispose to clean up the component list.
   <System.Diagnostics.DebuggerNonUserCode()> _
