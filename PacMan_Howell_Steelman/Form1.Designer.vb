@@ -5,6 +5,7 @@ Partial Class Form1
   '1
   3'
   '2
+  '5
   Inherits System.Windows.Forms.Form
     'Form overrides dispose to clean up the component list.
   <System.Diagnostics.DebuggerNonUserCode()> _
